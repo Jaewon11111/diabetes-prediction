@@ -64,10 +64,8 @@
 
 ## 👩‍⚕️ 작성자
 
-- Name: [너의 이름]  
-- Education: [의대 이름 또는 전공]  
 - Interests: 헬스케어, 의료 AI, 데이터 기반 의학적 의사결정, MSL/MA 직무 등  
-- Contact: [email or LinkedIn link]
+- Contact: [www.linkedin.com/in/재원-박-1638aa31a](https://www.linkedin.com/in/재원-박-1638aa31a)
 
 ---
 

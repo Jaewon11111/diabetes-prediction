@@ -63,10 +63,8 @@ This project builds machine learning models (Logistic Regression and Random Fore
 
 ## 👩‍⚕️ Author
 
-- Name: [Your Name]  
-- Education: [Medical School or Major]  
 - Interests: Healthcare, Medical AI, Data-driven clinical decision-making, MSL/MA roles  
-- Contact: [email or LinkedIn link]
+- Contact: [www.linkedin.com/in/재원-박-1638aa31a](https://www.linkedin.com/in/재원-박-1638aa31a)
 
 ---
 
